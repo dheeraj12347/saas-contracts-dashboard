@@ -4,7 +4,7 @@ A modern, responsive React application for managing SaaS contracts with AI-power
 
 ## 🚀 Live Demo
 
-[Deployed Application](https://your-saas-dashboard.vercel.app)
+[[Deployed Application](https://your-saas-dashboard.vercel.app)](https://saas-contracts-dashboard-git-main-dheerajs-projects-c4dd7d7c.vercel.app?_vercel_share=S7zuRaPk5CivtDxOTGDm8CFJkGDl9JJE)
 
 **Demo Credentials:**
 - **Username:** admin (or any username)
